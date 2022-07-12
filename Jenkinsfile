@@ -2,7 +2,7 @@ pipeline {
     
     agent any
     
-    stages {
+    stages{
           
           stage(one) {
               sh 'echo Hello jai'
