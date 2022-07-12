@@ -1,4 +1,4 @@
-#Just a pipeline job
+// Just a pipeline job
 
 pipeline{
     agent any
