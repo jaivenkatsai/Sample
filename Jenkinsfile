@@ -7,8 +7,10 @@ pipeline{
       stage('one') {
           steps {
               sh 'echo Hello jaivenkat'
-          }
-          
+          } 
         }
+      
+    
+    
     }
 }
