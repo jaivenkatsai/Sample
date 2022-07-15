@@ -4,8 +4,8 @@ pipeline{
     agent any
     stages{
           
-      stage('one') {
-          steps {
+        stage('one') {
+            steps {
               sh 'echo Hello jaivenkat'
           } 
         }
