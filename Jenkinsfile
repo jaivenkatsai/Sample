@@ -11,7 +11,7 @@ pipeline{
         }
         stage('two') {
             steps {
-                sh' 
+                sh 'hello jai venkat sai'
             }
         }
     
