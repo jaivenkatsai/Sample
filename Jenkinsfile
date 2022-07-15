@@ -9,7 +9,11 @@ pipeline{
               sh 'echo Hello jaivenkat'
           } 
         }
-      
+        stage('two') {
+            steps {
+                sh' 
+            }
+        }
     
     
     }
